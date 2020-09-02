@@ -1,0 +1,7 @@
+INFO  2020-09-02 21:55:16,682 [9] TestCasesBase - ===============================================
+INFO  2020-09-02 21:55:16,813 [9] TestCasesBase - VerifyLogin Test case is getting executed
+INFO  2020-09-02 21:55:30,498 [9] TestCasesBase - Value changing : input
+INFO  2020-09-02 21:55:30,850 [9] TestCasesBase - Value changing : input
+INFO  2020-09-02 21:55:31,781 [9] TestCasesBase - Value changing : input
+INFO  2020-09-02 21:55:32,155 [9] TestCasesBase - Value changing : input
+INFO  2020-09-02 21:55:36,934 [9] TestCasesBase - Browser closed
